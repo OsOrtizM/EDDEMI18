@@ -1,0 +1,10 @@
+C:\Users\Morelia Hidalgo C\Documents\4to SEMESTRE EMI\ESTRUCTURA DE DATOS\Programs E.DATOS\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\Morelia Hidalgo C\Documents\4to SEMESTRE EMI\ESTRUCTURA DE DATOS\Programs E.DATOS\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\Morelia Hidalgo C\Documents\4to SEMESTRE EMI\ESTRUCTURA DE DATOS\Programs E.DATOS\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\Morelia Hidalgo C\Documents\4to SEMESTRE EMI\ESTRUCTURA DE DATOS\Programs E.DATOS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.csprojResolveAssemblyReference.cache
+C:\Users\Morelia Hidalgo C\Documents\4to SEMESTRE EMI\ESTRUCTURA DE DATOS\Programs E.DATOS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Form1.resources
+C:\Users\Morelia Hidalgo C\Documents\4to SEMESTRE EMI\ESTRUCTURA DE DATOS\Programs E.DATOS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\Morelia Hidalgo C\Documents\4to SEMESTRE EMI\ESTRUCTURA DE DATOS\Programs E.DATOS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.USUARIO.resources
+C:\Users\Morelia Hidalgo C\Documents\4to SEMESTRE EMI\ESTRUCTURA DE DATOS\Programs E.DATOS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.csproj.GenerateResource.Cache
+C:\Users\Morelia Hidalgo C\Documents\4to SEMESTRE EMI\ESTRUCTURA DE DATOS\Programs E.DATOS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\Morelia Hidalgo C\Documents\4to SEMESTRE EMI\ESTRUCTURA DE DATOS\Programs E.DATOS\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
